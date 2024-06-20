@@ -1,5 +1,5 @@
-numpy==2.0.0
-streamlit==latest_version_compatible_with_numpy_2.0.0
+numpy==1.26.4
+streamlit==1.31.1
 tensorflow==2.16.1  
 matplotlib==3.9.0
 pandas==2.2.2
