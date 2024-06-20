@@ -19,7 +19,7 @@ def predict_image(model, img):
     return prediction
 
 # Muat model yang telah dilatih
-model = tf.keras.models.load_model('my_model.h5')
+model = tf.keras.models.load_model('my_model_mobilenetV2.h5')
 
 # Nama kelas
 class_names = ['Bacterialblight', 'Blast', 'Brownspot', 'Tungro']
